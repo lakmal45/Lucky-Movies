@@ -41,3 +41,12 @@ export const getMovieDetails = async (movieId) => {
   const data = await response.json();
   return data;
 };
+
+// Fetch the list of streaming providers (Netflix, etc.)
+export const getMovieProviders = async (movieId) => {
+  const response = await fetch(
+    `${BASE_URL}/movie/${movieId}/watch/providers?api_key=${API_KEY}`
+  );
+  const data = await response.json();
+  return data.results;
+};
