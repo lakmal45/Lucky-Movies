@@ -23,53 +23,20 @@ Data is fetched dynamically using [The Movie Database (TMDB) API](https://www.th
 * **API:** TMDB (The Movie Database)
 * **Icons:** React Icons / Heroicons (via SVGs)
 
-## 🚀 Getting Started
-
-Follow these steps to run the project locally.
-
-### Prerequisites
-Make sure you have **Node.js** installed on your machine.
-
-### Installation
-
-1.  **Clone the repository**
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
-    ```
-
-2.  **Install dependencies**
-    ```bash
-    npm install
-    ```
-
-3.  **Set up the API Key**
-    * This project uses the TMDB API.
-    * Create a file named `.env` in the root directory.
-    * Add your API key (or use the one provided in `api.js` for testing):
-    ```env
-    VITE_API_KEY=your_api_key_here
-    ```
-
-4.  **Run the development server**
-    ```bash
-    npm run dev
-    ```
-
-5.  Open your browser and navigate to `http://localhost:5173` (or the port shown in your terminal).
 
 ## 📸 Screenshots
 
 | Home Page | Movie Details |
-|:---------:|:-------------:|
-| *(Add Screenshot Here)* | *(Add Screenshot Here)* |
+|<img width="1920" height="955" alt="Screenshot (292)" src="https://github.com/user-attachments/assets/b20ff416-9e6d-4596-a7fb-412dd460fd78" />|<img width="1920" height="951" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/d1731eff-7af0-4600-a1d5-4bd5424410a5" />|
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit a Pull Request.
 
+
 1.  Fork the project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+
 3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
@@ -80,4 +47,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Developed by [Your Name]**
+**Developed by Nipuna Lakmal**
