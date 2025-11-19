@@ -26,8 +26,11 @@ Data is fetched dynamically using [The Movie Database (TMDB) API](https://www.th
 
 ## 📸 Screenshots
 
-| Home Page | Movie Details |
-|<img width="1920" height="955" alt="Screenshot (292)" src="https://github.com/user-attachments/assets/b20ff416-9e6d-4596-a7fb-412dd460fd78" />|<img width="1920" height="951" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/d1731eff-7af0-4600-a1d5-4bd5424410a5" />|
+| Home Page |
+<img width="1920" height="955" alt="Screenshot (292)" src="https://github.com/user-attachments/assets/b20ff416-9e6d-4596-a7fb-412dd460fd78" />
+
+| Movie Details |
+<img width="1920" height="951" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/d1731eff-7af0-4600-a1d5-4bd5424410a5" />
 
 ## 🤝 Contributing
 
